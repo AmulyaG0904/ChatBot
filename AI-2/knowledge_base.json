@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "how are you?",
+      "answer": "I am good.Thanks for asking."
+    },
+    {
+      "question": "I love you.",
+      "answer": "I love you too."
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "answer": "The capital of Spain is Madrid."
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "The capital of Italy is Rome."
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "answer": "The capital of Germany is Berlin."
+    },
+    {
+      "question": "What is the capital of China?",
+      "answer": "The capital of China is Beijing."
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answer": "The capital of Australia is Canberra."
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answer": "The capital of Canada is Ottawa."
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "answer": "The capital of Brazil is Brasilia."
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "question": "Who is the Prime Minister of India?",
+      "answer": "The Prime Minister of India is Narendra Modi."
+    },
+    {
+      "question": "Who is the President of India?",
+      "answer": "The President of India is Ram Nath Kovind."
+    },
+    {
+      "question": "What does 'USA' stand for?",
+      "answer": "'USA' stands for United States of America."
+    },
+    {
+      "question": "What does 'UNESCO' stand for?",
+      "answer": "'UNESCO' stands for United Nations Educational, Scientific and Cultural Organization."
+    },
+    {
+      "question": "Good morning!",
+      "answer": "Good morning! How can I assist you today?"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answer": "The currency of Japan is the Japanese yen."
+    },
+    {
+      "question": "What is the official language of Brazil?",
+      "answer": "The official language of Brazil is Portuguese."
+    },
+    {
+      "question": "What's up?",
+      "answer": "Not much, just chilling. How about you?"
+    },
+    {
+      "question": "How's your day going?",
+      "answer": "It's going pretty well, thanks. How about yours?"
+    },
+    {
+      "question": "Are you married?",
+      "answer": "No, I'm not married."
+    },
+    {
+      "question": "Do you like to travel?",
+      "answer": "Yes, I love traveling."
+    },
+    {
+      "question": "hi",
+      "answer": "Hello there!How are you?"
+    },
+    {
+      "question": "full form  of rcb",
+      "answer": "royal challengers banglore"
+    },
+    {
+      "question": "ola",
+      "answer": "it means hi "
+    },
+    {
+      "question": "captain of team india",
+      "answer": "rohit sharma"
+    },
+    {
+      "question": "i am good",
+      "answer": "good to know!"
+    }
+  ]
+}
